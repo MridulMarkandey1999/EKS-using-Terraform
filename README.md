@@ -533,3 +533,19 @@ can't guarantee that exactly these actions will be performed if
 - Check if it is all good and then you can accept by writing “yes”. After the complete creation, you can go to your AWS account to see your resources:
 
 - As an output you will get one ExternalIP which you can directly paste in browser to access your front end web application. Also along with that, you will get MySQL database details which you created using RDS serice and you can use these to connect your wordpress to relational database.
+
+## Output Screenshots:
+
+![](/a.png)
+
+![](/b.png)
+
+![](/c.png)
+
+![](/d.png)
+
+![](/e.png)
+
+![](/f.png)
+
+![](/0_5EAQb8WSZSoXBItp.png)
