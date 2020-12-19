@@ -542,10 +542,10 @@ can't guarantee that exactly these actions will be performed if
 
 ![](/c.png)
 
+![](/0_5EAQb8WSZSoXBItp.png)
+
 ![](/d.png)
 
 ![](/e.png)
 
 ![](/f.png)
-
-![](/0_5EAQb8WSZSoXBItp.png)
