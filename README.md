@@ -534,11 +534,7 @@ can't guarantee that exactly these actions will be performed if
 
 - As an output you will get one ExternalIP which you can directly paste in browser to access your front end web application. Also along with that, you will get MySQL database details which you created using RDS serice and you can use these to connect your wordpress to relational database.
 
-- If you want to destroy your resources with Terraform, you just have to run this command:
-
-> terraform destroy
-
-Terraform will show you every resource it will destroy and if you agree you can accept by writing “yes”.
+- **Terraform destroy:** If you want to destroy your resources with Terraform, you just have to run this command. Terraform will show you every resource it will destroy and if you agree you can accept by writing “yes”.
 
 ## Output Screenshots:
 
